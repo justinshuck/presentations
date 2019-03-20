@@ -1,0 +1,14 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/justinshuck/presentations.git",
+  "author": "Justin Shuck <justin.m.shuck@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^3.0.4"
+  },
+  "scripts": {
+    "present": "reveal-md"
+  }
+}
